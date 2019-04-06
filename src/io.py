@@ -1,6 +1,6 @@
 def read_data(partition, read=True):
     """This function takes a partition argument of: all, day 1, day 2, day 3, prerun, sleep, postrun"""
-    """This function takes a read argument of TRUE of FALSE. If TRUE, the hdf5 files are read using read_dataset"""
+    """This function takes a read argument of TRUE or FALSE. If TRUE, the hdf5 files are read using read_dataset"""
     if(read==True):
     #Reads all of the hdf5 files, note to change the file path
         first_23=read_dataset('data/unzippedfiles/2017-08-23_09-42-01-prerun.hdf5')

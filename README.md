@@ -22,8 +22,7 @@ The data can be accessed at https://crcns.org/data-sets/hc/hc-19/about-hc-19:
 
 To process the hdf5 files, first run the script in src/kloosterman_function.py:
 
--This function was developed by Fabian Kloosterman and is avaiable on the bitbucket repository Ciliberti Elife2018 RealTimeReplay,
- with links and detailed description of location in the CRCNS hc-19 repository.
+-This function was developed by Fabian Kloosterman and is available on the bitbucket repository Ciliberti Elife2018 RealTimeReplay, with links and detailed description of location in the CRCNS hc-19 repository.
  
 -This script will create the read_dataset function which reads the hdf5 files in python.
 
