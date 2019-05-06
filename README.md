@@ -1,7 +1,7 @@
 
-# CRCNS HC-19 Pre-Processed Data
+# CRCNS HC-19 Data and Burst Detection
 
-This repository contains the pre-processed data from the hc-19 dataset on CRCNS.org, and were provided by Davide Ciliberti, Frédéric Michon and Fabian Kloosterman.
+This repository contains the pre-processed data from the hc-19 dataset on CRCNS.org, and were provided by Davide Ciliberti, Frédéric Michon and Fabian Kloosterman. The following scripts will enable you to replicate our analyses at every step of the project.
 
 ## To get the data
 
