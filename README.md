@@ -40,5 +40,5 @@ To put the desired data into a dictonary, use the function in the src/io.py fold
 
 ## Spike Detection
 
--Run the script in the src/burstdetection.py folder. This script will run replicate our analyses for the final project, which examines the data from the second run (RUN 2) from the first tetrode on 08/23/2017. The script produces the following output: A plot of the waveform of the first electrode for RUN 2 on 08/23/2017, a raster plot of the spikes produced during the run (with a threshold rate of 60 microvolts, and the calculated number of spikes for that run.
+-Run the script in the src/burstdetection.py folder. This script will replicate our analyses for the final project, which examines the data from the second run (RUN 2) from the first tetrode on 08/23/2017. The script produces the following output: A plot of the waveform of the first electrode for RUN 2 on 08/23/2017, a raster plot of the spikes produced during the run (with a threshold rate of 60 microvolts), and the calculated number of spikes for that run.
 
